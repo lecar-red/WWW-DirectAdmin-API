@@ -21,6 +21,13 @@ WriteMakefile(
         'Params::Validate' => 0,
         'URI'              => 0
     },
+    META_MERGE      => {
+        resources => {
+            license     => 'http://dev.perl.org/licenses/',
+            bugtracker  => 'https://github.com/lecar-red/WWW-DirectAdmin-API/issues',
+            repository  => 'https://github.com/lecar-red/WWW-DirectAdmin-API'
+        },
+    }, 
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'WWW-DirectAdmin-API-*' },
 );
