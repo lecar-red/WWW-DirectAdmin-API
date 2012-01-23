@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Carp;
 use Data::Dumper qw( Dumper );
@@ -407,7 +407,7 @@ B<Note>: Database names have current username automatically prefixed when create
 
 =head1 ADMIN LEVEL API
 
-Very little of this is implemement today.
+Very little of this is implemented today. More to come in later releases.
 
 =head2 get_users 
 
