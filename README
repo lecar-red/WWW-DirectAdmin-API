@@ -1,4 +1,4 @@
-This archive contains the distribution for WWW-DirectAdmin-API, version 0.01
+This archive contains the distribution for WWW-DirectAdmin-API, version 0.02
 
   Provides interface to DirectAdmin WWW based API  
 
@@ -21,7 +21,7 @@ perldoc command.
 You can also look for information at:
 
     RT, CPAN's request tracker (report bugs here)
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-DirectAdmin-API
+        https://github.com/lecar-red/WWW-DirectAdmin-API/issues
 
     AnnoCPAN, Annotated CPAN documentation
         http://annocpan.org/dist/WWW-DirectAdmin-API
@@ -30,7 +30,7 @@ You can also look for information at:
         http://cpanratings.perl.org/d/WWW-DirectAdmin-API
 
     Search CPAN
-        http://search.cpan.org/dist/WWW-DirectAdmin-API/
+        https://metacpan.org/module/WWW::DirectAdmin::API
 
 
 LICENSE AND COPYRIGHT

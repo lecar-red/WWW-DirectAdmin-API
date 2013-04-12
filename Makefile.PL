@@ -19,7 +19,8 @@ WriteMakefile(
         'HTTP::Request'    => 0,
         'LWP::UserAgent'   => 0,
         'Params::Validate' => 0,
-        'URI'              => 0
+        'URI'              => 0,
+        'Test::Exception'  => 0
     },
     META_MERGE      => {
         resources => {
